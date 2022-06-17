@@ -1,0 +1,22 @@
+{
+  "name": "app-aws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Svhrkumar/node-app-aws.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Svhrkumar/node-app-aws/issues"
+  },
+  "homepage": "https://github.com/Svhrkumar/node-app-aws#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
